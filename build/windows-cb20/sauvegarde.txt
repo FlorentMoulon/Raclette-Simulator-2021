@@ -1,0 +1,17 @@
+0
+0
+0
+0
+0
+0
+0
+
+ligne 1 : argent
+
+ligne 2 : nb appareil étudiant
+ligne 3 : nb appareil familial
+ligne 4 : nb appareil traditionel
+
+ligne 5 : nb raclette
+ligne 6 : nb patate
+ligne 7 : nb charcuterie
