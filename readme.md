@@ -8,4 +8,4 @@ Il est codé en C et C++ et utilise une librairie graphique nommé Grapic.
 ![GIF du Jeu](GIF-Raclette-Simulator.gif)
 
 ## Jaquette
-![Jaquette](raclette simulator 2021.png)
+![Jaquette](Jaquette-raclette-simulator-2021.png)
